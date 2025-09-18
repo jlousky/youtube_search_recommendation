@@ -1,0 +1,30 @@
+# YouTube API
+google-api-python-client==2.108.0
+google-auth==2.23.4
+google-auth-oauthlib==1.1.0
+
+# Web framework
+flask==2.3.3
+flask-cors==4.0.0
+
+# Data processing
+pandas==2.1.3
+numpy==1.24.4
+
+# Machine learning for preferences
+scikit-learn==1.3.2
+
+# Database
+sqlite3
+
+# Configuration
+python-dotenv==1.0.0
+
+# Utilities
+requests==2.31.0
+beautifulsoup4==4.12.2
+
+# Development
+pytest==7.4.3
+black==23.10.1
+flake8==6.1.0
