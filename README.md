@@ -14,8 +14,8 @@ A personalized YouTube video search engine that learns from user preferences to 
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
-cd youtube-search-engine
+git clone https://github.com/jlousky/youtube_search_recommendation.git
+cd youtube_search_recommendation
 ```
 
 2. Install dependencies:
